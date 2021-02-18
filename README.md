@@ -1,2 +1,2 @@
 # RWS.Helper
-Set of useful c# extesion methods created with the purpose of increase productivity.
+Library composed with several methods created with the purpose to increase productivity
